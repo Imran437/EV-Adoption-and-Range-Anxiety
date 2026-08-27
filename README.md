@@ -408,7 +408,7 @@ The Power BI report consists of four interactive dashboard pages designed to pro
 
 Provides a high-level view of the EV buyer population, purchase intention, demographics, and key customer characteristics.
 
-![Dashboard 1 - EV Adoption Overview](Images/01_executive_overview.png)
+![Dashboard 1 - EV Adoption Overview](05_Images/01_executive_overview.png)
 
 ---
 
@@ -416,7 +416,7 @@ Provides a high-level view of the EV buyer population, purchase intention, demog
 
 Explores the key factors associated with EV purchase intention, including subsidy availability, range anxiety, charging accessibility, environmental concern, and commuting behavior.
 
-![Dashboard 2 - EV Adoption Drivers](Images/02_adoption_drivers.png)
+![Dashboard 2 - EV Adoption Drivers](05_Images/02_adoption_drivers.png)
 
 ---
 
@@ -424,7 +424,7 @@ Explores the key factors associated with EV purchase intention, including subsid
 
 Focuses on customer segmentation using the EV Potential Score and identifies High-, Medium-, and Low-Potential customer groups.
 
-![Dashboard 3 - EV Buyer Segmentation](Images/03_buyer_segmentation.png)
+![Dashboard 3 - EV Buyer Segmentation](05_Images/03_buyer_segmentation.png)
 
 ---
 
@@ -432,7 +432,7 @@ Focuses on customer segmentation using the EV Potential Score and identifies Hig
 
 Summarizes the major findings from the analysis and translates them into actionable business recommendations.
 
-![Dashboard 4 - Key Insights & Recommendations](Images/04_key_insights.png)
+![Dashboard 4 - Key Insights & Recommendations](05_Images/04_key_insights.png)
 
 
 ## Key Business Insights
